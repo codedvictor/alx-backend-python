@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-
 """
 Concurrent coroutines
 """
 import asyncio
 from typing import List
+
 from basic_async_syntax import wait_random
 
 
